@@ -33,15 +33,14 @@ body{
     display: flex;
     flex-direction: column;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
 
 }
-p{
+#points{
     height: 50px;
     width: 45px;
     background-color: #080001;
     color: #F94F6D;
-
     font-family: Cursed Timer ULiL;
     font-size: 90px;
     font-weight: 400;
