@@ -5,9 +5,10 @@ body{
     display: block;
     margin-right: auto;
     margin-left: auto;
-    width: 200px;
-    height: 300px;
+    width: 400px;
+    height: 600px;
     border: 2px solid black;
+    margin-top: 50px;
 }
 .scoreboard{
 
@@ -21,9 +22,14 @@ body{
 }
 .sb{
 
+
 }
 p{
     height: 50px;
     width: 45px;
     background-color: blue;
+}
+.points-btn{
+    display: flex;
+    flex-direction: row;
 }
