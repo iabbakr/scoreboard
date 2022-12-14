@@ -13,7 +13,7 @@ body{
     background-color: blue;
 }
 .scoreboard{
-    position: relative;
+    position: absolute;
     display: flex;
     flex-direction: row;
     align-items: center;
