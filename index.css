@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    color: white;
 }
 .container{
     display: block;
@@ -7,8 +8,9 @@ body{
     margin-left: auto;
     width: 400px;
     height: 220px;
-    border: 2px solid black;
+    border: 5px solid white;
     margin-top: 50px;
+    background-color: blue;
 }
 .scoreboard{
 
@@ -37,9 +39,11 @@ body{
 p{
     height: 50px;
     width: 45px;
-    background-color: blue;
+    background-color: black;
 }
 .points-btn{
     display: flex;
     flex-direction: row;
+    justify-content: space-around;
+    border: 2px solid white;
 }
