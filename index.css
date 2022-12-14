@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+}
+.container{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 200px;
+    height: 300px;
+}
+.scoreboard{
+
+    display: flex;
+    flex-direction: row;
+
+}
+.points{
+
+}
+.sb{
+
+}
