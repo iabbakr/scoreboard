@@ -13,6 +13,7 @@ body{
 
     display: flex;
     flex-direction: row;
+    margin: 10px;
 
 }
 .points{
@@ -20,4 +21,9 @@ body{
 }
 .sb{
 
+}
+p{
+    height: 50px;
+    width: 45px;
+    background-color: blue;
 }
