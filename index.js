@@ -15,3 +15,15 @@ function add3(){
     counter = counter + 3;
     pointHome.textContent = counter;
 };
+function add11(){
+    counter += 1;
+    pointAway.textContent = counter;
+};
+function add22(){
+    counter += 2;
+    pointAway.textContent = counter;
+};
+function add33(){
+    counter += 3;
+    pointAway.textContent = counter;
+};
