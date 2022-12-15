@@ -1,29 +1,30 @@
 let pointHome = document.getElementById("points1");
 let pointAway = document.getElementById("points2");
 
-let counter = 0;
+let counter1 = 0;
+let counter2 = 0;
 
 function add1(){
-    counter = counter + 1;
+    counter1 = counter + 1;
     pointHome.textContent = counter;
 };
 function add2(){
-    counter = counter + 2;
+    counter1 = counter + 2;
     pointHome.textContent = counter;
 };
 function add3(){
-    counter = counter + 3;
+    counter1 = counter + 3;
     pointHome.textContent = counter;
 };
 function add11(){
-    counter += 1;
+    counter2 += 1;
     pointAway.textContent = counter;
 };
 function add22(){
-    counter += 2;
+    counter2 += 2;
     pointAway.textContent = counter;
 };
 function add33(){
-    counter += 3;
+    counter2 += 3;
     pointAway.textContent = counter;
 };
