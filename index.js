@@ -6,25 +6,25 @@ let counter2 = 0;
 
 function add1(){
     counter1 += 1;
-    pointHome.textContent = counter;
+    pointHome.textContent = counter1;
 };
 function add2(){
     counter1 += 2;
-    pointHome.textContent = counter;
+    pointHome.textContent = counter1;
 };
 function add3(){
     counter1 += 3;
-    pointHome.textContent = counter;
+    pointHome.textContent = counter1;
 };
 function add11(){
     counter2 += 1;
-    pointAway.textContent = counter;
+    pointAway.textContent = counter2;
 };
 function add22(){
     counter2 += 2;
-    pointAway.textContent = counter;
+    pointAway.textContent = counter2;
 };
 function add33(){
     counter2 += 3;
-    pointAway.textContent = counter;
+    pointAway.textContent = counter2;
 };
