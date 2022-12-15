@@ -19,7 +19,7 @@ body{
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    height: auto;
+    height: 250;
     width: auto;
     margin: 10px 40px;
     padding: 15px;
