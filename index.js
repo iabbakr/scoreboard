@@ -1,5 +1,5 @@
-let pointHome = document.getElelementById("point1");
-let pointAway = document.getElementById("point2");
+let pointHome = document.getElelementById("points1");
+let pointAway = document.getElementById("points2");
 
 let counter = 0;
 
