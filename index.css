@@ -40,6 +40,13 @@ body{
     width: 149px;
     height: 36px;
     margin-bottom: 20px;
+    font-family: Verdana;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 36px;
+    letter-spacing: 0em;
+    text-align: center;
+
 
 }
 .display{
