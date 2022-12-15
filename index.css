@@ -39,14 +39,13 @@ body{
     padding: 10px;;
 
 }
-#points{
+.display{
     height: 50px;
     width: 100px;
     background-color: #080001;
     color: #F94F6D;
     text-align: center;
     border-radius: 1px;
-    padding: 10px 25px;;
 }
 .point{
     display: flex;
