@@ -39,6 +39,9 @@ body{
     padding: 10px;;
 
 }
+.location{
+
+}
 .display{
     height: 50px;
     width: 100px;
@@ -47,10 +50,12 @@ body{
     text-align: center;
     border-radius: 1px;
 }
-.point{
+.point-box{
     display: flex;
     flex-direction: row;
-    border-radius: 3px;
+    justify-content: center;
+    align-items: center;
+
 }
 .btn{
     color:#9AABD8;
