@@ -45,11 +45,13 @@ body{
     background-color: #080001;
     color: #F94F6D;
     text-align: center;
+    border-radius: 4px;
 }
 .points-btn{
     display: flex;
     flex-direction: row;
     border: 2px solid #9AABD8;
+    border-radius: 3px;
 }
 
 
