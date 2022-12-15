@@ -47,11 +47,14 @@ body{
     text-align: center;
     border-radius: 1px;
 }
-.points-btn{
+.point{
     display: flex;
     flex-direction: row;
-    border: 2px solid #9AABD8;
     border-radius: 3px;
 }
-
-
+.btn{
+    color:;
+    background-color: inherit;
+    border: 1px solid #9AABD8;
+    border-radius: 3px;
+}
