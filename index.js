@@ -5,15 +5,15 @@ let counter1 = 0;
 let counter2 = 0;
 
 function add1(){
-    counter1 = counter + 1;
+    counter1 += 1;
     pointHome.textContent = counter;
 };
 function add2(){
-    counter1 = counter + 2;
+    counter1 += 2;
     pointHome.textContent = counter;
 };
 function add3(){
-    counter1 = counter + 3;
+    counter1 += 3;
     pointHome.textContent = counter;
 };
 function add11(){
